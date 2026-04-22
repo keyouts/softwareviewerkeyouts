@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Carousel Widget</title>
+  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap">
+</head>
+<body>
+  <div class="content">
+    <div class="carousel-window">
+      <div class="carousel-title-bar">
+        <span>our_software.exe</span>
+        <div class="buttons">
+          <div></div><div></div><div></div>
+        </div>
+      </div>
+      <div class="carousel" role="region" aria-label="Image carousel">
+        <button class="nav left" aria-label="Previous image">&#9664;</button>
+
+        <div class="image-container">
+          <a id="carousel-link" href="#" target="_blank">
+            <img
+              id="carousel-image"
+              src="https://via.placeholder.com/300x300?text=Image+1"
+              alt="Image 1: Placeholder graphic"
+              aria-live="polite"
+            >
+          </a>
+          <div class="overlay-text" id="carousel-overlay"></div>
+        </div>
+
+        <button class="nav right" aria-label="Next image">&#9654;</button>
+      </div>
+    </div>
+  </div>
+  <script src="./script.js"></script>
+</body>
+</html>
