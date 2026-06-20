@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
       src: "https://images.squarespace-cdn.com/content/686b137649e6ef6f1bbbe325/fdc0ca85-35e7-4e36-ab34-7fa96ea32006/DMDashIcon.png?content-type=image%2Fpng",
       alt: "Logo for DM Dashboard.",
       link: "https://keyouts.github.io/DMDash/",
-      text: "DM Dash - Create campaigns and maps."
+      text: "DM Dash - Beta app to create campaigns and maps."
     }
   ];
 
