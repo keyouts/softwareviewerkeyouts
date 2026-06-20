@@ -15,10 +15,18 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       src: "https://images.squarespace-cdn.com/content/686b137649e6ef6f1bbbe325/2f4ffd79-1b96-4418-a6c2-cf97c8d10ee5/icon.png?content-type=image%2Fpng",
       alt: "Logo for Pixel Bug Beta.",
-      link: "https://github.com/keyouts/PixelBug",
+      link: "https://keyouts.github.io/PixelBugDemo/",
       text: "Pixel Bug Beta – Pixel art and animation software."
+    },
+     {
+      src: "https://images.squarespace-cdn.com/content/686b137649e6ef6f1bbbe325/fdc0ca85-35e7-4e36-ab34-7fa96ea32006/DMDashIcon.png?content-type=image%2Fpng",
+      alt: "Logo for DM Dashboard.",
+      link: "https://keyouts.github.io/DMDash/",
+      text: "DM Dash - Create campaigns and maps."
     }
   ];
+
+  
 
   let current = 0;
 
