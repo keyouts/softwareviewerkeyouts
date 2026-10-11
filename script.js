@@ -18,9 +18,15 @@ document.addEventListener("DOMContentLoaded", () => {
       link: "https://keyouts.github.io/PixelBugDemo/",
       text: "Pixel Bug – Pixel art and animation software."
     },
+       {
+      src: "https://images.squarespace-cdn.com/content/686b137649e6ef6f1bbbe325/0fb25d6f-4f55-4300-b7ad-827779ef7fb3/SkoshPressLogo.png?content-type=image%2Fpng",
+      alt: "Logo for Skosh Press.",
+      link: "https://github.com/keyouts/skoshpress",
+      text: "Skosh Press - document editing and publishing software."
+    },
      {
       src: "https://images.squarespace-cdn.com/content/686b137649e6ef6f1bbbe325/fdc0ca85-35e7-4e36-ab34-7fa96ea32006/DMDashIcon.png?content-type=image%2Fpng",
-      alt: "Logo for DM Dashboard.",
+      alt: "Logo for DM Dash.",
       link: "https://keyouts.github.io/DMDash/",
       text: "DM Dash - Beta app to create campaigns and maps."
     }
