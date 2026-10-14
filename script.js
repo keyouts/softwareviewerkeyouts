@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       src: "https://images.squarespace-cdn.com/content/686b137649e6ef6f1bbbe325/2f4ffd79-1b96-4418-a6c2-cf97c8d10ee5/icon.png?content-type=image%2Fpng",
       alt: "Logo for Pixel Bug.",
-      link: "https://keyouts.github.io/PixelBugDemo/",
+      link: "https://keyouts.github.io/pixelbugweb/",
       text: "Pixel Bug – Pixel art and animation software."
     },
        {
